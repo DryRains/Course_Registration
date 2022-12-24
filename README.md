@@ -8,3 +8,5 @@
 5. 이번 달 학사일정
 6. 회원가입 & ID/PW 찾기
 7. 비밀번호 암호화하여 관리
+<br/>
+*(해당 zip file을 eclipse 등의 ide에서 import 해서 구동할 수 있다. format : MS949)*
