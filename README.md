@@ -9,4 +9,4 @@
 6. 회원가입 & ID/PW 찾기
 7. 비밀번호 암호화하여 관리
 <br/>
-*업로드 된 Course_Registration.zip을 eclipse 등의 ide에서 import 해서 구동할 수 있다. format : MS949
+*업로드 된 Course_Registration.zip을 eclipse 등의 IDE에서 import 해서 구동할 수 있다. format : MS949
